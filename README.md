@@ -4,7 +4,7 @@ Hi 👋 My name is Pattapee Pimton
 Fresh graduate - HTML, CSS, React Developer
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [lordhomeless77@gmail.com](mailto:lordhomeless77@gmail.com)
+* ✉️  You can contact me at [pete.pattapee@gmail.com](mailto:pete.pattapee@gmail.com)
 * 🧠  I'm learning React Framework
 
 ### Skills
